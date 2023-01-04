@@ -1,5 +1,10 @@
 Red
 Green
 Blue
+<<<<<<< HEAD
 Yellow
 White
+=======
+Michael 
+john
+>>>>>>> his-branch
